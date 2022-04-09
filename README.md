@@ -5,3 +5,5 @@ After a decade of experimenting, I found that existing workflows and tools  (som
 This led me to create my own workflow - [[A Hierarchy First Approach to Note Taking|blog.pkm.2020-08-24-a-hierarchy-first-approach-to-note-taking]]. This workflow, combined with custom tooling I created to facilitate it, **completely solved information overload** for myself, allowing me to easily create, organize and reference my own knowledge.
 
 In 2019, I left my job at Amazon to focus on distilling everything I had learned about PKM to build [Dendron](https://dendron.so/) - a [tool for thought](https://numinous.productions/ttft/) that helps **humans** manage **knowledge at scale**.
+
+![Metrics](https://metrics.lecoq.io/kevinslin?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
