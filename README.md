@@ -6,4 +6,6 @@ This led me to create my own workflow - [A Hierarchy First Approach to Note Taki
 
 In 2019, I left my job at Amazon to focus on distilling everything I had learned about PKM to build [Dendron](https://dendron.so/) - a [tool for thought](https://numinous.productions/ttft/) that helps **humans** manage **knowledge at scale**.
 
+Currently I work at OpenAI where I work on building tools of thought with AI.
+
 ![Metrics](https://metrics.lecoq.io/kevinslin?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
