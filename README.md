@@ -4,8 +4,6 @@ After a decade of experimenting, I found that existing workflows and tools  (som
 
 This led me to create my own workflow - [A Hierarchy First Approach to Note Taking](https://www.kevinslin.com/notes/3dd58f62-fee5-4f93-b9f1-b0f0f59a9b64). This workflow, combined with custom tooling I created to facilitate it, **completely solved information overload** for myself, allowing me to easily create, organize and reference my own knowledge.
 
-In 2019, I left my job at Amazon to focus on distilling everything I had learned about PKM to build [Dendron](https://dendron.so/) - a [tool for thought](https://numinous.productions/ttft/) that helps **humans** manage **knowledge at scale**.
+In 2019, I left my job at Amazon to focus on distilling everything I had learned about PKM to build [Dendron](https://dendron.so/) - a [tool for thought](https://numinous.productions/ttft/) that helps **humans** manage **knowledge at scale**. I went through YC W21 as a solo founder and built Dendron out to over 100K users before winding down due to some family issues. 
 
 Currently I work at OpenAI where I work on building tools of thought with AI.
-
-![Metrics](https://metrics.lecoq.io/kevinslin?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
