@@ -1,4 +1,4 @@
-Hi, I'm **Kevin**. I'm currently working at OpenAI working on codex and 🦞
+Hi, I'm **Kevin**. I work at OpenAI on codex and 🦞
 
 Before this, I founded Dendron (YC W21) - a tool to help humans manage context (think cursor but for markdown files). This was based on my own problem of trying to manage my corpus of **+30K** markdown notes.
 
